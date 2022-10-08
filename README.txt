@@ -9,7 +9,7 @@ Simple storage.
 6. delete (by moving up)
 7. show all commands
 
-study tasks covered:
+show cases covered:
 - run telegram bot
 - operate commands (+with parametres)
 - operate buttons
@@ -21,4 +21,3 @@ study tasks covered:
 weaknesses:
 - use [id] as uniq id
 - bad delete func. It will change ids (by shifting)
-- dont check for duplicates in add func
