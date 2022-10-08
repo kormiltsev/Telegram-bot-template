@@ -5,8 +5,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/NautiloosGo/telebot/internal/app/commands"
-	"github.com/NautiloosGo/telebot/internal/services/product"
+	"github.com/kormiltsev/tbot-demo/internal/app/commands"
+	"github.com/kormiltsev/tbot-demo/internal/services/product"
 
 	tgbotapi "github.com/go-telegram-bot-api/telegram-bot-api/v5"
 	"github.com/joho/godotenv"
