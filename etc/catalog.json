@@ -1,0 +1,69 @@
+{
+  "Products": [
+    {
+      "Title": "apple",
+      "Description": "red or green fruit",
+      "Price": 56.7
+    },
+    {
+      "Title": "cherry",
+      "Description": "red",
+      "Price": 13
+    },
+    {
+      "Title": "toy",
+      "Description": "Huggy Waggy",
+      "Price": 300
+    },
+    {
+      "Title": "yogurt",
+      "Description": "vkusny",
+      "Price": 17
+    },
+    {
+      "Title": "baño",
+      "Description": "agua",
+      "Price": 10
+    },
+    {
+      "Title": "go",
+      "Description": "lang",
+      "Price": 300
+    },
+    {
+      "Title": "go",
+      "Description": "game",
+      "Price": 404
+    },
+    {
+      "Title": "pho bo",
+      "Description": "суп",
+      "Price": 405
+    },
+    {
+      "Title": "дукварь",
+      "Description": "книга",
+      "Price": 100
+    },
+    {
+      "Title": "golang",
+      "Description": "lang",
+      "Price": 30
+    },
+    {
+      "Title": "cs go",
+      "Description": "game",
+      "Price": 250
+    },
+    {
+      "Title": "goose",
+      "Description": "gaga",
+      "Price": 100
+    },
+    {
+      "Title": "jango",
+      "Description": "free",
+      "Price": 0
+    }
+  ]
+}
